@@ -1,0 +1,23 @@
+출력명,출력설명
+CODENAME,분류
+GUNAME,자치구
+TITLE,공연/행사명
+DATE,날짜/시간
+PLACE,장소
+ORG_NAME,기관명
+USE_TRGT,이용대상
+USE_FEE,이용요금
+PLAYER,출연자정보
+PROGRAM,프로그램소개
+ETC_DESC,기타내용
+ORG_LINK,홈페이지 주소
+MAIN_IMG,대표이미지
+RGSTDATE,신청일
+TICKET,시민/기관
+STRTDATE,시작일
+END_DATE,종료일
+THEMECODE,테마분류
+LOT,위도(X좌표)
+LAT,경도(Y좌표)
+IS_FREE,유무료
+HMPG_ADDR,문화포털상세URL
